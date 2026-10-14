@@ -1,0 +1,19 @@
+Keloğlan=3
+Balkız=5
+Keloğlanın_Anası=6
+print(Keloğlan,Balkız,Keloğlanın_Anası)
+toplam_elma=Keloğlan+Balkız+Keloğlanın_Anası
+print(toplam_elma)
+
+
+# Yeni Deneyler
+a_sinifi= 20
+b_sinifi=30
+c_sinifi=10
+
+print(a_sinifi,b_sinifi,c_sinifi)
+print(a_sinifi * b_sinifi)
+print(b_sinifi + c_sinifi)
+print(a_sinifi - c_sinifi)
+print(b_sinifi  /c_sinifi)
+print(a_sinifi // c_sinifi)
